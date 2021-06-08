@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+<h1>Privacy Policy for GTBank Kenya Limited</h1>
 
-You can use the [editor on GitHub](https://github.com/tomOkila/PrivatePolicy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p>At GTBANK KENYA, accessible from https://www.gtbank.co.ke/, one of our main priorities is the privacy of our app users. This Privacy Policy document contains types of information that is collected and recorded by GTBANK KENYA and how we use it.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
-### Markdown
+<p>This Privacy Policy applies only to the information that they shared and/or collect in GTBANK KENYA. This policy is not applicable to any information collected offline.. </a>.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2>Consent</h2>
 
-```markdown
-Syntax highlighted code block
+<p>By using our app, you hereby consent to our Privacy Policy and agree to its terms.</p>
 
-# Header 1
-## Header 2
-### Header 3
+<h2>Information we collect</h2>
 
-- Bulleted
-- List
+<p>When you use certain faetures of our app we may need access to some of your information such as contacts and location to enable proper functioning of the application.</p>
 
-1. Numbered
-2. List
+<h2>How we use your information</h2>
 
-**Bold** and _Italic_ and `Code` text
+<p>We use the information we collect in various ways, including to:</p>
 
-[Link](url) and ![Image](src)
-```
+<ul>
+<li>Provide, operate, and maintain our website</li>
+<li>Improve, personalize, and expand our website</li>
+<li>Understand and analyze how you use our website</li>
+<li>Develop new products, services, features, and functionality</li>
+<li>Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes</li>
+<li>Send you emails</li>
+<li>Find and prevent fraud</li>
+</ul>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<h2>Children's Information</h2>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tomOkila/PrivatePolicy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p>GTBANK KENYA currently doesn't allow application access to individuals below 18 years.</p>
